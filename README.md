@@ -6,9 +6,7 @@ Chatbot untuk **troubleshooting log Linux dan triase insiden**. Input berupa pot
 
 Dibuat sebagai tugas **ITC AI/ML Division, Pertemuan 6** (UPN "Veteran" Yogyakarta).
 
-<!-- Tambahkan screenshot Gradio ke docs/demo.png lalu hapus tanda komentar di bawah:
 ![Demo](docs/demo.png)
--->
 
 ## Fitur
 
