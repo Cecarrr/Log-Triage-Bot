@@ -1,0 +1,18 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets & local data
+.env
+*.key
+
+# Cache hasil panggilan LLM (dibuat otomatis oleh notebook)
+cache/
+triage_cache.json
+
+# OS
+.DS_Store
+Thumbs.db
